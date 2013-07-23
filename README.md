@@ -1,4 +1,5 @@
-cakephp-model-associations
-==========================
+CakePHP Model Association.
+-----------------------------
 
- CakePHP Model Associations
+SQL File: association.sql
+
